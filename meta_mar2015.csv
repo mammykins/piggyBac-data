@@ -1,0 +1,89 @@
+order,species,label,paper_id,inj,g0,X,g0.lambda,study
+Lepidoptera,Bombyx mori,B.mori,NA,1058,230,3,0.013043478,Tamura_2000
+Lepidoptera,Bombyx mori,B.mori,NA,1440,424,9,0.021226415,Tamura_2000
+Lepidoptera,Plutella xylostella,P.xylostella,NA,3104,584,4,0.006849315,Martins_2012
+Lepidoptera,Plutella xylostella,P.xylostella,NA,1925,1462,7,0.004787962,Martins_2012
+Lepidoptera,Plutella xylostella,P.xylostella,NA,2410,922,6,0.006507592,Martins_2012
+Lepidoptera,Plutella xylostella,P.xylostella,NA,1202,463,3,0.006479482,Martins_2012
+Diptera,Anopheles stephensi,A.stephensi,NA,337,NA,5,NA,Catteruccia_2005
+Diptera,Anastrepha ludens,A.ludens,NA,NA,247,12,0.048582996,Condon_2007
+Diptera,Anastrepha ludens,A.ludens,NA,NA,132,12,0.090909091,Condon_2007
+Diptera,Ceratitis capitata,C.capitata,NA,NA,NA,NA,NA,Gong_2005
+Diptera,Aedes aegypti,A.aegypti,NA,2000,225,3,0.013333333,Kokoza_2001
+Diptera,Aedes albopictus,A.albopictus,NA,6000,550,6,0.010909091,Labbe_2010
+Diptera,Aedes albopictus,A.albopictus,NA,604,32,1,0.03125,Labbe_2010
+Diptera,Aedes albopictus,A.albopictus,NA,2052,86,1,0.011627907,Labbe_2010
+Diptera,Aedes albopictus,A.albopictus,NA,2165,161,2,0.01242236,Labbe_2010
+Coleoptera,Tribolium castaneum,T.castaneum,NA,509,146,61,0.417808219,Lorenzen_2003
+Coleoptera,Tribolium castaneum,T.castaneum,NA,314,95,38,0.4,Lorenzen_2003
+Coleoptera,Tribolium castaneum,T.castaneum,NA,459,152,36,0.236842105,Lorenzen_2003
+Coleoptera,Tribolium castaneum,T.castaneum,NA,612,50,12,0.24,Lorenzen_2003
+Coleoptera,Tribolium castaneum,T.castaneum,NA,392,55,12,0.218181818,Lorenzen_2003
+Lepidoptera,Pectinophora gossypiella,P.gossypiella,NA,5974,86,3,0.034883721,Peloquin_2000
+Lepidoptera,Pectinophora gossypiella,P.gossypiella,NA,1911,0,0,0,Peloquin_2000
+Diptera,Ceratitis capitata,C.capitata,NA,500,135,2,0.014814815,Morrison_2009
+Diptera,Drosophila suzukii,D.suzukii,NA,75,33,4,0.121212121,Schetelig_2013
+Lepidoptera,Bombyx mori,B.mori,NA,5000,367,18,0.049046322,Zhuang_2010
+Lepidoptera,Bombyx mori,B.mori,NA,2600,32,0,0,Zhuang_2010
+Lepidoptera,Bombyx mori,B.mori,NA,2400,27,5,0.185185185,Zhuang_2010
+Hymenoptera,Athalia rosae,A.roase,NA,278,57,3,0.052631579,Sumitani_2003
+Diptera,Anastrepha suspensa,A.suspensa,NA,NA,NA,NA,NA,Schetelig_2012
+Lepidoptera,Ostrinia furnacalis,O.furnacalis,NA,NA,NA,NA,NA,Liu_2012
+Diptera,Bactrocera tryoni,B.tryoni,NA,155,19,2,0.105263158,Raphael_2011
+Diptera,Bactrocera tryoni,B.tryoni,NA,465,39,4,0.102564103,Raphael_2011
+Diptera,Bactrocera tryoni,B.tryoni,NA,595,36,9,0.25,Raphael_2011
+Diptera,Bactrocera tryoni,B.tryoni,NA,723,13,0,0,Raphael_2011
+Diptera,Bactrocera tryoni,B.tryoni,NA,640,25,0,0,Raphael_2011
+Diptera,Lucilia cuprina,L.cuprina,NA,3000,66,4,0.060606061,Concha_2011
+Diptera,Lucilia cuprina,L.cuprina,NA,3000,52,11,0.211538462,Concha_2011
+Diptera,Teleopsis dalmanni,T.dolmanni,NA,699,50,2,0.04,Warren_2010
+Diptera,Drosophila melanogaster,D.melanogaster,NA,2650,283,4,0.014134276,Handler_1999
+Diptera,Drosophila melanogaster,D.melanogaster,NA,1940,122,11,0.090163934,Handler_1999
+Diptera,Drosophila melanogaster,D.melanogaster,NA,2147,218,7,0.032110092,Handler_1999
+Diptera,Musca domestica,M.domestica,NA,1668,41,7,0.170731707,Hediger_2001
+Coleoptera,Tribolium castaneum,T.castaneum,NA,700,69,3,0.043478261,Lorenzen_2002
+Diptera,Anopheles albimanus,A.albimanus,NA,1715,35,12,0.342857143,Perera_2002
+Diptera,Anopheles gambiae,A.gambiae,NA,1954,172,1,0.005813953,Grossman_2001
+Diptera,Lucilia cuprina,L.cuprina,NA,800,27,0,0,Heinrich_2002
+Diptera,Lucilia cuprina,L.cuprina,NA,800,29,0,0,Heinrich_2002
+Diptera,Lucilia cuprina,L.cuprina,NA,2400,121,2,0.016528926,Heinrich_2002
+Diptera,Cochliomyia hominivorax,C.homnivorax,NA,2180,22,3,0.136363636,Allen_2004
+Diptera,Drosophila simulans,D.simulans,NA,1680,16,2,0.125,Depra_2004
+Coleoptera,Harmonia axyridis,H.axyridis,NA,405,54,2,0.037037037,Kuwayama_2006
+Diptera,Drosophila melanogaster,D.melanogaster,NA,2730,166,1,0.006024096,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,930,70,6,0.085714286,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,620,16,2,0.125,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,650,20,3,0.15,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,730,31,4,0.129032258,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,670,28,3,0.107142857,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,710,31,3,0.096774194,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,850,36,5,0.138888889,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,990,86,0,0,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,610,71,0,0,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,840,69,0,0,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,650,31,4,0.129032258,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,530,36,5,0.138888889,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,1020,36,8,0.222222222,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,515,22,8,0.363636364,"Li et al, 2005"
+Diptera,Drosophila melanogaster,D.melanogaster,NA,533,88,22,0.25,"Li et al, 2005"
+Diptera,Drosophila willistoni,D.willistoni,NA,539,6,4,0.666666667,Finoki_2007
+Diptera,Ceratitis capitata,C.capitata,n1258,NA,NA,0,0,Scolari_2008
+Diptera,Ceratitis capitata,C.capitata,n1259,NA,NA,0,0,Scolari_2008
+Diptera,Ceratitis capitata,C.capitata,n1260,445,23,4,0.173913043,Scolari_2008
+Diptera,Ceratitis capitata,C.capitata,n1261,376,14,2,0.142857143,Scolari_2008
+Lepidoptera,Bombyx mori,B.mori,pBNP+,3020,974,29,0.029774127,Iizuka_2008
+Lepidoptera,Bombyx mori,B.mori,pBNP-,3447,721,33,0.045769764,Iizuka_2008
+Diptera,Ceratitis capitata,C.capitata,NA,6543,978,26,0.026584867,Condon_2005
+Lepidoptera,Bombyx mori,B.mori,NA,5545,700,111,0.158571429,Dai_2005
+Diptera,Aedes aegypti,A.aegypti,UbD2FB,1789,104,1,0.009615385,Adelman_2004
+Diptera,Aedes aegypti,A.aegypti,UbD2FB,1391,141,1,0.007092199,Adelman_2004
+Diptera,Aedes aegypti,A.aegypti,VgN2,1020,286,2,0.006993007,Adelman_2004
+Diptera,Aedes aegypti,A.aegypti,GSCEC,2200,NA,2,NA,Adelman_2004
+Lepidoptera,Cydia pomonella,C.pomonella,NA,NA,NA,NA,NA,Ferguson_2011
+Diptera,Aedes fluviatilis,A.fluviatilis,NA,NA,NA,NA,NA,Rodrigues_2006
+Diptera,Aedes aegypti,A.aegypti,NA,NA,NA,NA,NA,Cho_2006
+Diptera,Aedes aegypti,A.aegypti,hs0,1187,201,1,0.004975124,Lobo_2002
+Diptera,Aedes aegypti,A.aegypti,hs30,1210,158,0,0,Lobo_2002
+Diptera,Aedes aegypti,A.aegypti,hs60,657,66,3,0.045454545,Lobo_2002
+Hymenoptera,Apis mellifera,A.mellifera,63xp,440,58,4,0.068965517,Schulte_2014
+Hymenoptera,Apis mellifera,A.mellifera,egfp,533,32,2,0.0625,Schulte_2014
