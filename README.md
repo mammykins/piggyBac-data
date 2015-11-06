@@ -6,9 +6,9 @@ Codebook prepared by Matthew Gregory to compliment uploaded data as part of an a
 
 Number of observations, number of variables.  
   
-| Field label   |: species       :|
-| Variable     |:insect species shorthand:|
-| Variable type|:factor:|
-| Values       |:aa, ae, dbm, pbw, tc, ds, mf, of  :|
-| Details       |:Aedes aegypti, Aedes albopictus  :|
+| Field label   |: species       :|  
+| Variable     |:insect species shorthand:|  
+| Variable type|:factor:|  
+| Values       |:aa, ae, dbm, pbw, tc, ds, mf, of  :|  
+| Details       |:Aedes aegypti, Aedes albopictus  :|  
 
