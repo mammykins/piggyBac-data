@@ -6,16 +6,12 @@ Codebook prepared by Matthew Gregory to compliment uploaded data as part of an a
 
 Number of observations, number of variables.  
   
-| Field label   |: species       :| 
+| Field label   | species       | 
 | ------------- |:-----------------------:|
 | Variable     |insect species shorthand|  
 | Variable type|factor|  
 | Values       |aa, ae, dbm, pbw, tc, ds, mf, of|  
 | Details       |Aedes aegypti, Aedes albopictus|  
   
-| Field label        | species           | Cool  |
-| ------------- |:-------------:| -----:|
-| Variable     | right-aligned | $1600 |
-| Variable type      | centered      |   $12 |
-| Values | are neat      |    $1 |
+
 
