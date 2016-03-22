@@ -11,7 +11,8 @@ Number of observations, number of variables.
 | Variable     |insect species shorthand|  
 | Variable type|factor|  
 | Values       |aa, ae, dbm, pbw, tc, ds, mf, of|  
-| Details       |Aedes aegypti, Aedes albopictus|  
+| Details       |Aedes aegypti, Aedes albopictus, Plutella xylostella, Pectinophora gossypiella, Tribolium castaneum, Drosophila suzuki, Ceratitis capitata, Bactrocera oleae|  
+| Common name       |Yellow Fever Mosquito, Asian Tiger Mosquito, Diamondback moth, Pink bollworm, Spotted-wing Drosophila, MedFly, Olive Fly, 
   
 
 
